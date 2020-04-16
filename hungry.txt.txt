@@ -1,1 +1,5 @@
 Welcome to Git Tutorial
+git clone url
+git add --all
+git commit -m 'test'
+git push
