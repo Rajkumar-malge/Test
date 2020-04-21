@@ -1,5 +1,35 @@
-Welcome to Git Tutorial
-git clone url
-git add --all
-git commit -m 'test'
-git push
+1: Given a piece of work to be executed in agile how would form the agile team?
+An agile team must have the required skills, headcount being less than 12.
+2: Agile team who is responsible for tracking the tasks? : Team lead /facili
+3: How does the team know what to work upon during the iteration?
+4: When multiple team memebers are working on a related feature how often should be integrated their work?
+5: After team memebers write a peice of code how can ensure  that its works before checking it in?
+6: what is an efficient way to ensure that the code is working as per acceptance criteria or business requirement?
+
+7: how should a team have a quality built into its deliverables?
+ans: By having a separate quality assurance team for testing the quality of deliverables
+
+8: what would be suggested way to share and sustain knowledge with member in a team?
+Ans: Knowledge can be shared and sustained within the members of a team by creating a learning environment. 
+Interactive communications are required that involves collaborating and learning from each other
+
+9:what do you think is a good way for a team members to remain update on work status at any given time?
+10: how does an agile team maintains requirement?
+
+11: what do you think is the most effective way to ensure that the code adheres to good coding standards?
+ans: code should pass all unit test cases
+
+12: What would be a standard way for anyone outside an agile team to get the status of the work?
+Ans: The iteration tracking can be a standard way for anyone outside an agile team to get the status of the work at any point in time
+
+13: What happens if the offshore team members are not able to participate in the iteration?
+Ans: No major issue. Since offshore Lead and onsite members participate in the demo with the Product Owner/Stakeholders, they can cascade the feedback back to the offshore members.
+
+14: What do you think is a good way for team members to remain updated?
+Ans: The best way for team members, to be updated is by having an updated physical or digital Kanban board, Scrum board, or any such board. 
+
+15: How does the team know what to work upon?
+Ans: Based on the discussions during iteration planning, team members agree on what each would work on
+
+16: When you have more than one agile team working on a single product what should be considered?
+Ans:When we have more than one agile team working on a single product then teams must have regular sync -up meets to manage and reduce the dependencies. This method is most time consuming but opposite to that it provides maximum efficiency so that with one try, the best quality product can be formed.
